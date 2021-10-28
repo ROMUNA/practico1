@@ -1,0 +1,1 @@
+El archivo principal lo generamos en el repositorio local para luego subirlo al repositorio remoto con git bash.
